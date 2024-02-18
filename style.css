@@ -18,6 +18,10 @@
   --COLOR-YELLOW:hsl(34, 89%, 65%);
 }
 
+:root{
+  color-scheme: light;
+}
+
 *{
   box-sizing: border-box;
 }
